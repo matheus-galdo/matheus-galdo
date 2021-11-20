@@ -6,32 +6,29 @@
 
 
 ### Technologies
-<div>
-    <div>
+<div style="display: inline_block">
      <img src="https://github-readme-stats.vercel.app/api?username=galdo0139&show_icons=true&locale=en" alt="galdo0139" />  
-    </div>  
-    <div>
      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=galdo0139&show_icons=true&locale=en&layout=compact" alt="galdo0139" />
-    </div>
 </div>
+  
   
 ## 🧠 What I use
 <div style="display: inline_block"><br>
-   <img align="center" title="" alt="" height="30" width="40" src="">
-   <img align="center" title="PHP" alt="PHP" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919830.png">
-   <img align="center" title="Laravel" alt="Laravel" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">
+   <img align="center" title="" alt="" height="40" src="">
+   <img align="center" title="PHP" alt="PHP" height="40" src="https://cdn-icons-png.flaticon.com/512/919/919830.png">
+   <img align="center" title="Laravel" alt="Laravel" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">
    
- <img align="center" title="Javascript" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" title="Node.js" alt="Node.js" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png">
- <img align="center" title="React" alt="React" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png">
- <img align="center" title="Angular.js" alt="Angular.js" height="30" width="40" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg">
+ <img align="center" title="Javascript" alt="Javascript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" title="Node.js" alt="Node.js" height="40" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png">
+ <img align="center" title="React" alt="React" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png">
+ <img align="center" title="Angular.js" alt="Angular.js" height="40" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg">
  
- <img align="center" title="HTML" alt="HTML" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732212.png">
- <img align="center" title="CSS" alt="CSS" height="30" width="40" src="https://logospng.org/download/css-3/logo-css-3-2048.png">
-   <img align="center" title="Sass" alt="Sass" height="30" width="40" src="https://user-images.githubusercontent.com/26288276/142716031-fc772c81-23ca-41b0-8d43-f2f10ab69e4d.png">
+ <img align="center" title="HTML" alt="HTML" height="40" src="https://cdn-icons-png.flaticon.com/512/732/732212.png">
+ <img align="center" title="CSS" alt="CSS" height="40" src="https://logospng.org/download/css-3/logo-css-3-2048.png">
+   <img align="center" title="Sass" alt="Sass" height="40" src="https://user-images.githubusercontent.com/26288276/142716031-fc772c81-23ca-41b0-8d43-f2f10ab69e4d.png">
 
- <img align="center" title="MySQL" alt="MySQL" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/mysql-19-1174939.png">
- <img align="center" title="Postgres" alt="Postgres" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png">
+ <img align="center" title="MySQL" alt="MySQL" height="40" src="https://cdn.iconscout.com/icon/free/png-256/mysql-19-1174939.png">
+ <img align="center" title="Postgres" alt="Postgres" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png">
 </div>
 
 
