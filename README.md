@@ -8,10 +8,10 @@
 ### Technologies
 <div>
     <div>
-     <img align="left" src="https://github-readme-stats.vercel.app/api?username=galdo0139&show_icons=true&locale=en" alt="galdo0139" />  
+     <img src="https://github-readme-stats.vercel.app/api?username=galdo0139&show_icons=true&locale=en" alt="galdo0139" />  
     </div>  
     <div>
-     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=galdo0139&show_icons=true&locale=en&layout=compact" alt="galdo0139" />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=galdo0139&show_icons=true&locale=en&layout=compact" alt="galdo0139" />
     </div>
 </div>
   
