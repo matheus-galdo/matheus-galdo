@@ -6,7 +6,7 @@
 
 
 ### Technologies
-<div style="display: inline_block">
+<div style="display: flex; justify-content: space-between;">
      <img src="https://github-readme-stats.vercel.app/api?username=galdo0139&show_icons=true&locale=en" alt="galdo0139" />  
      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=galdo0139&show_icons=true&locale=en&layout=compact" alt="galdo0139" />
 </div>
