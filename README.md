@@ -1,14 +1,18 @@
-### Hi there 👋
+### Hello there 👋
+I'm Matheus Galdino, i'm a full-stack developer and a serial curious searcher.
+Currently, i work at [Driven Education](https://www.driven.com.br/) as a full-stack tutor teaching new devs, job that teaches me something new every day.
 
-
-- 📚 I’m currently learning websockets
+`$ whoami`
+- 🙋‍♂️ I'm Matheus Galdino, but everybody call me Galdino
+- 🌎 Brazilian
+- 📘 Currently studying Systems Analysis and Development (2/5)
 - 📫 How to reach me: matheus.kho@gmail.com
 
 
 ### Technologies
 <div style="display: inline_block">
-     <img src="https://github-readme-stats.vercel.app/api?username=galdo0139&show_icons=true&locale=en" alt="galdo0139" />  
-     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=galdo0139&show_icons=true&locale=en&layout=compact" alt="galdo0139" />
+     <img src="https://github-readme-stats.vercel.app/api?username=matheus-galdo&show_icons=true&locale=en" alt="matheus-galdo" />  
+     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheus-galdo&show_icons=true&locale=en&layout=compact" alt="matheus-galdo" />
 </div>
   
   
@@ -32,7 +36,7 @@
 </div>
 
 
-<!-- ## 📚 What I'm learning
+## 📚 What I'm learning
 <div>
   <img align="center" title="Bootstrap" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" title="Figma" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
@@ -47,4 +51,4 @@
   <img align="center" title="Jest" alt="Jest" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <br />
   <br />
-</div> -->
+</div>
