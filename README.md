@@ -41,7 +41,6 @@ Currently, i work at [Driven Education](https://www.driven.com.br/) as a full-st
 
 
 # 💻 Github Stats
-<div align="center">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-galdo&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Galdino stats" />  
+<div align="center">  
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-galdo&show_icons=true&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="Galdino most used languages" />
 </div>
