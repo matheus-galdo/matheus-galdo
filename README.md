@@ -5,7 +5,7 @@ Currently, i work at [Driven Education](https://www.driven.com.br/) as a full-st
 ## 📌 `$ whoami`
 - 🙋‍♂️ I'm Matheus Galdino, but everybody call me Galdino
 - 🌎 Brazilian
-- 📘 Currently studying Systems Analysis and Development (2/5)
+- 📘 Currently studying Systems Analysis and Development (3/5)
 - 📫 How to reach me: matheus.kho@gmail.com
 
 
