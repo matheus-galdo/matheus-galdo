@@ -6,7 +6,6 @@ Currently, i work at [Driven Education](https://www.driven.com.br/) as a full-st
 - 🙋‍♂️ I'm Matheus Galdino, but everybody call me Galdino
 - 🌎 Brazilian
 - 📘 Currently studying Systems Analysis and Development (4/5)
-- 📫 How to reach me: matheus.kho@gmail.com
 
 
 # Technologies
