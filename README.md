@@ -1,6 +1,5 @@
 # Hello there 👋
-I'm Matheus Galdino, i'm a full-stack developer and a serial curious searcher.
-Currently, i work at [Driven Education](https://www.driven.com.br/) as a full-stack tutor teaching new devs, job that teaches me something new every day.
+I'm Matheus Galdino, i'm a full-stack developer and a serial curious searcher. Currently, i work at CR Remoção as a full-stack software developer.
 
 ## 📌 `$ whoami`
 - 🙋‍♂️ I'm Matheus Galdino, but everybody call me Galdino
