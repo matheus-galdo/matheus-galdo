@@ -1,8 +1,8 @@
 # Hello there 👋
-I'm Matheus Galdino, i'm a full-stack developer and a serial curious searcher. Currently, i work at CR Remoção as a full-stack software developer.
+I'm Matheus Galdino, a full-stack developer and a naturally curious problem solver. Currently, I work at CR Remoção as a full-stack software developer.
 
 ## 📌 `$ whoami`
-- 🙋‍♂️ I'm Matheus Galdino, but everybody call me Galdino
+- 🙋‍♂️ I'm Matheus Galdino, but everybody calls me Galdino
 - 🌎 Brazilian
 - 📘 Graduated in Systems Analysis and Development
 
